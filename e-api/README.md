@@ -49,8 +49,9 @@ On the root of the project run:
 ```
 to set all the enviroment variables.
 
-8. ### Run the project
+8. ### run go modules an run the project
 Now you can run the project:
 ```bash
+    go mod tidy
    go run main.go
 ```
