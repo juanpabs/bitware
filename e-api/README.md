@@ -1,4 +1,4 @@
-# Quasar Fire API
+# BITWARE CLIENTS API
 
 **Developed by** Juan Pablo Franco Berrones </br>
 **Creation Date:** 16/03/2020  </br>
